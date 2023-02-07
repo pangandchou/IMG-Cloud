@@ -6,8 +6,4 @@
 2) 笔记
 3) 软件
 
-
-
-![image-20230207003643422](https://raw.githubusercontent.com/pangandchou/IMG-Cloud/master/data/image-20230207003643422.png)
-
-![image-20230207083646051](https://raw.githubusercontent.com/pangandchou/IMG-Cloud/master/data/image-20230207083646051.png)
+![image-20230207085817322](https://raw.githubusercontent.com/pangandchou/IMG-Cloud/master/data/image-20230207085817322.png)
